@@ -331,7 +331,7 @@ echo ""
 echo -e "WEB SWIT 4G" | figlet | boxes -d stone -p a0v0 | lolcat
 echo -e "                              \033[1;31mBy @swittecnologia\033[1;36m" | lolcat
 echo ""
-chave=$(curl -sSL "https://github.com/CoutySSH/Painel-4G/main/install/chave") &>/dev/null
+chave=$(curl -sSL "https://raw.githubusercontent.com/CoutySSH/Painel-4G/main/install/chave") &>/dev/null
 
 read -p "DIGITE A CHAVE DE INSTALAÇÃO: " key
     

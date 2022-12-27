@@ -6,7 +6,7 @@
 
 # 𓊈𒆜 COMANDO DE INSTALAÇÃO! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/CoutySSH/Painel-4G/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/Painel-4G/main/install/ubuinst.sh)
 ```
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
@@ -16,12 +16,12 @@ CoutySSH
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/CoutySSH/Painel-4G/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/Painel-4G/main/install/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
 
-👉 https://github.com//CoutySSH/Painel-4G/main/install
+👉 https://github.com/
 </br></br>
 
 # 𓊈𒆜 ATUALIZAÇÕES: (31/10/2022) 𒆜𓊉
