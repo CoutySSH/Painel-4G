@@ -1,8 +1,17 @@
-#  𓊈𒆜 PAINEL VIP SWIT-4G 𒆜𓊉
+#  𓊈𒆜 PAINEL WEB 4G 𒆜𓊉
+
+#  𓊈𒆜 VPS PARA FAZER INSTALAÇÂO 𒆜𓊉
+
+✅ AviraHost
+   https://bit.ly/AviraHosti
+
+✅ HostMF
+   https://bit.ly/HOSTMF
 
 ⚠ <b>SISTEMA SUPORTADO:</b></br>
+
 👉 <b>(UBUNTU 18)</b></br>
-⚠ <b>VPS PARA PAINEL WEB: https://www.avirahost.com.br⚠</b></br>
+
 
 # 𓊈𒆜 COMANDO DE INSTALAÇÃO! 𒆜𓊉
 ```
@@ -43,8 +52,12 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH
 
 # 𓊈𒆜 CRÉDITOS: 𒆜𓊉
 ```
+@crazy_vpn
+@nandoslayer
 @swittecnologia
+@Davidsdy
+@Couty_SSH
 ```
 
-# 𓊈𒆜 VPN MONEY: 𒆜𓊉
+# 𓊈𒆜 VPN: 𒆜𓊉
 👉 
